@@ -3,5 +3,5 @@ A Simple YouTube Downloader
 
 Prerequisites:
 
-## yt-dlp
-## ffmpeg
+* yt-dlp
+* ffmpeg
